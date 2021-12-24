@@ -24,7 +24,7 @@ A tool for black traffic to websites with different proxy IPs that leads to high
 [logo]: https://raw.githubusercontent.com/unk9vvn/AndTroj/master/menu.jpg "Logo Title Text 2"
 
 
-This tool creates a tune-up of the Metasploit program, unlocks the program and integrates it into the footage. During this operation, the vagaries are mimicking the unpacking Android antivirus and compiling it after the completion of the integration. For the program's service, it's one-on-one and rearwards automatically after getting back access on Android OS Bargas And it runs to allow the service to be activated every hour, all of which is done automatically
+This program can use a proxy server to simultaneously search from 4 processes from the Google search box page and enter your keyword and find your website, after finding the site and wait for a minute Because Google does not recognize the ID as a robot and assumes that a real user has seen the page. In case of multiple occurrences of this operation, the website will receive a lot of traffic in Google Console, which will increase the SEO ranking of the website.
 
 
 # How to Run (Example)
