@@ -1,0 +1,8 @@
+argparse
+selenium
+selenium-wire
+colorama
+pyautogui
+BeautifulSoup4
+requests
+cryptography 
