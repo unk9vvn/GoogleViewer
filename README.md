@@ -17,7 +17,7 @@ A tool for black traffic to websites with different proxy IPs that leads to high
 - :heavy_check_mark: Can be used on 64-bit Windows and Linux operating systems.
 
 
-# Screenshot
+# Demo
 
 ![alt text][logo]
 
