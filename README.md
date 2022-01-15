@@ -13,7 +13,7 @@ A tool for black traffic to websites with different proxy IPs that leads to high
 - :heavy_check_mark: Use list proxy and proxy server.
 - :heavy_check_mark: Ability to create four threads simultaneously on four browsers.
 - :heavy_check_mark: All processes are hidden in the browser and do not require GPU processing.
-- :heavy_check_mark: Bypass all Google mechanisms in the discussion of proxy tracking.
+- :heavy_check_mark: Bypass all Google mechanism in the discussion of proxy tracking.
 - :heavy_check_mark: Can be used on 64-bit Windows and Linux operating systems.
 
 
