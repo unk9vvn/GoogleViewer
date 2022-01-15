@@ -2,9 +2,6 @@
 # coding:utf-8
 # v55
 # ┌──(unk9vvn㉿googleviewer)-[~]
-# └─$ pip3 install argparse selenium selenium-wire colorama pyautogui BeautifulSoup4 requests cryptography --upgrade
-# Testing SEO
-# ┌──(unk9vvn㉿googleviewer)-[~]
 # └─$ python googleviewer.py --word "unk9vvn" --website "unk9vvn.com" --proxy "http://USER:PASS@server.proxyland.io:9090"
 import os
 import shutil
