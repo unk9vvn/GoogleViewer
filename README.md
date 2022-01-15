@@ -31,7 +31,7 @@ This program can use a proxy server to simultaneously search from 4 processes fr
 ```
 # Install PIPs
 ┌──(unk9vvn㉿googleviewer)-[~]
-└─$ pip3 install argparse selenium selenium-wire colorama pyautogui BeautifulSoup4 requests cryptography --upgrade
+└─$ pip3 install -r requirements.txt
 
 # Testing SEO
 ┌──(unk9vvn㉿googleviewer)-[~]
