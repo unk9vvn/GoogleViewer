@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # coding:utf-8
 # v55
+# https://smartproxy.com/proxies/datacenter-proxies
 # ┌──(unk9vvn㉿googleviewer)-[~]
 # └─$ python googleviewer.py --word "unk9vvn" --website "unk9vvn.com" --proxy "http://USER:PASS@server.proxyland.io:9090"
 import os
