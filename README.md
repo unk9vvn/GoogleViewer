@@ -30,11 +30,11 @@ This program can use a proxy server to simultaneously search from 4 processes fr
 # How to Run (Example)
 ```
 # Install PIPs
-┌──(unk9vvn㉿googleviewer)-[~]
+┌──(googleviewer㉿unk9vvn)-[~]
 └─$ pip3 install -r requirements.txt
 
 # Testing SEO
-┌──(unk9vvn㉿googleviewer)-[~]
+┌──(googleviewer㉿unk9vvn)-[~]
 └─$ python googleviewer.py --word "unk9vvn" --website "unk9vvn.com" --proxy "http://USER:PASS@server.proxyland.io:9090"
 ```
 
